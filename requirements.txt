@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+easyocr
+openai
+requests
+pillow
+python-multipart
